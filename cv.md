@@ -48,3 +48,5 @@ Unfortunately, I don't have any programming experience yet.
 * **Russian** - Native speaker
 * **Belorussian** - Native speaker
 * **English** - B1/B1+  *(according to the results CEFR)*
+
+Now I am studying with an English tutor. The task is to increase to the level of B2 +.
