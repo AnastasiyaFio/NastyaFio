@@ -1,7 +1,6 @@
-# Anastasiya Fiodorova
-
-## Contact information: 
-
+<h1>Anastasiya Fiodorova</h1>
+<img src="assets/img/Me.jpg" alt="my photo">
+<h2> Contact information:</h2> 
 
 **Phone:** +375(29)2692951 <br >
 **E-mail:** anastasiya_fio@mail.ru <br >
